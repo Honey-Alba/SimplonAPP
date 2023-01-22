@@ -35,6 +35,6 @@
   </tbody>
 </table>
 
-<a type=" button" class="btn btn-primary mx-lg-5" href="index.php">Retour</a>
+<a type=" button" class="btn btn-primary mx-lg-5 m-md-5" href="index.php">Retour</a>
 <?php require_once('db/close_db.php'); ?>
 <?php include("Pages/footer.php") ?>
