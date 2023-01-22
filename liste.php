@@ -25,6 +25,7 @@
   <?php 
   $lists = $res->fetchAll();
   foreach ($lists as $list):?> 
+    <tr>
       <td><?= $list['Nom']; ?></td>
       <td><?= $list['Prenoms']; ?></td>
       <td><?= $list['contact']; ?></td>
