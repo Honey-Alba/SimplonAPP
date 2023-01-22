@@ -3,10 +3,10 @@
     <head>
 	    <meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" href="../../SIMPLON/sources/img/logo2.png">
+        <link rel="icon" href="sources/img/logo2.png">
 	    <title>Simplon_Test</title>
-        <link href="../SIMPLON/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="../SIMPLON/css/main.css" rel="stylesheet">
+        <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Copse&display=swap" rel="stylesheet">
     </head>
